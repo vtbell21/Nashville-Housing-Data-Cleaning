@@ -1,5 +1,8 @@
 /*
-Cleaning Data in SQL Queries
+Cleaning Nashville Housing Data
+
+Vincent Taylor Bell
+9/16/2022
 */
 
 
